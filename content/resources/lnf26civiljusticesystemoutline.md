@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Civil Justice System
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-219-law-and-society-spring-2003/c81679c53e9a9a199587168364911fd9_lnf26civiljusticesystemoutline.pdf
+file: /media/courses/21a-219-law-and-society-spring-2003/c81679c53e9a9a199587168364911fd9_lnf26civiljusticesystemoutline.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lnf26civiljusticesystemoutline.pdf
 uid: c81679c5-3e9a-9a19-9587-168364911fd9
