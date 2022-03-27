@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0260ce2e-d02c-d32b-725b-aa449ea47eda
 resourcetype: Document
 title: ln1314alternatives.pdf
 uid: 88d45860-8d8b-aad2-02d2-90f2f9706a9c

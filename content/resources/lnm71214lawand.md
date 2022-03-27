@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0260ce2e-d02c-d32b-725b-aa449ea47eda
 resourcetype: Document
 title: lnm71214lawand.pdf
 uid: b751182f-020e-b45f-9ba5-24395ef7e36a

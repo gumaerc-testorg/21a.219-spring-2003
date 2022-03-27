@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0260ce2e-d02c-d32b-725b-aa449ea47eda
 resourcetype: Document
 title: lnf19crimjusticeoutline.pdf
 uid: 09602cd6-b253-1943-6885-ef02e0fe0529

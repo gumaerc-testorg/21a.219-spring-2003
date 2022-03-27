@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0260ce2e-d02c-d32b-725b-aa449ea47eda
 resourcetype: Document
 title: lna1623kmarxo.pdf
 uid: 3304560e-0ba7-0f74-f75b-c8822ace9012

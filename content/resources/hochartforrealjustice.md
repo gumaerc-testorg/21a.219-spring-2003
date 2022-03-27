@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: ee615d9e-07af-9955-757e-9ef7d5518d93
 resourcetype: Document
 title: hochartforrealjustice.pdf
 uid: b51b1d2f-fa17-6c46-0b3a-5a68cfb2f5c6

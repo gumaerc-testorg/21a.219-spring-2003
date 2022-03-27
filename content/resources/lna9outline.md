@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0260ce2e-d02c-d32b-725b-aa449ea47eda
 resourcetype: Document
 title: lna9outline.pdf
 uid: f1c9907c-61f0-fd40-f15c-5d6f3b01af7c

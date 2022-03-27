@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f2f3fb4f-175e-0938-108f-631f1c84cdbf
 resourcetype: Document
 title: hojurisprudenceparadigms.pdf
 uid: 5b59dfc4-6c29-e974-3d36-568eef1d7652

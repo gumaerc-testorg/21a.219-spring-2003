@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: de03d9ca-1341-cabe-6657-75f28039e970
 resourcetype: Document
 title: lawandsocietysylfeb03.pdf
 uid: 287936d1-e59e-e466-d045-e81b7225aefd
