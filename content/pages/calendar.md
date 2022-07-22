@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: ee615d9e-07af-9955-757e-9ef7d5518d93
 ---
@@ -64,7 +67,7 @@ Burnett, G. Graham. _A Trial by Jury._ Pp. 3-76.
 Lec #2, 3
 {{< tdclose >}}
 {{< tdopen >}}
-Jurisprudential Paradigms ([PDF]({{< baseurl >}}/resources/hojurisprudenceparadigms))
+Jurisprudential Paradigms ({{% resource_link 5b59dfc4-6c29-e974-3d36-568eef1d7652 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -88,7 +91,7 @@ Viewing #1
  
 {{< tdclose >}}
 {{< tdopen >}}
-_Real Justice, District Court._ ([PDF]({{< baseurl >}}/resources/hochartforrealjustice))
+_Real Justice, District Court._ ({{% resource_link b51b1d2f-fa17-6c46-0b3a-5a68cfb2f5c6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -113,7 +116,7 @@ _Real Justice, District Court._ ([PDF]({{< baseurl >}}/resources/hochartforrealj
 Lec #4, 5
 {{< tdclose >}}
 {{< tdopen >}}
-Criminal Justice System (Lec #4) ([PDF]({{< baseurl >}}/resources/lnf19crimjusticeoutline))
+Criminal Justice System (Lec #4) ({{% resource_link 09602cd6-b253-1943-6885-ef02e0fe0529 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -151,7 +154,7 @@ Viewing #2
  
 {{< tdclose >}}
 {{< tdopen >}}
-_Real Justice, Superior Court._ ([PDF]({{< baseurl >}}/resources/hochartforrealjustice))
+_Real Justice, Superior Court._ ({{% resource_link b51b1d2f-fa17-6c46-0b3a-5a68cfb2f5c6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -171,9 +174,9 @@ Lec #6, 7, 8
 {{< tdopen >}}
 
 
-Civil Justice System (Lec #6) ([PDF]({{< baseurl >}}/resources/lnf26civiljusticesystemoutline))
+Civil Justice System (Lec #6) ({{% resource_link c81679c5-3e9a-9a19-9587-168364911fd9 "PDF" %}})
 
-Civil Justice System (Continued) (Lec #7) ([PDF]({{< baseurl >}}/resources/lnm3morecivillitigation))
+Civil Justice System (Continued) (Lec #7) ({{% resource_link 99fed470-cdb1-cc83-3c06-20075b2fe71c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -212,9 +215,9 @@ Lec #9, 10, 11, 12
 {{< tdopen >}}
 
 
-Players in the System: Judges (Lec #9, 10) ([PDF]({{< baseurl >}}/resources/lnm1719playersjudgescaselaw))
+Players in the System: Judges (Lec #9, 10) ({{% resource_link 7c2abb84-2cef-9860-ef0d-50cd52ef13a2 "PDF" %}})
 
-Legal Profession (Lec #11, 12) ([PDF]({{< baseurl >}}/resources/lnm311legalprofession))
+Legal Profession (Lec #11, 12) ({{% resource_link a59588e5-0c40-7365-f4f7-2c03814816c0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -255,7 +258,7 @@ Mid-Term Exam (Tentative Date - 3 days before Lec #11)
 Lec #13, 14
 {{< tdclose >}}
 {{< tdopen >}}
-Alternatives to Law: Varieties of Dispute Processing (Lec #13, 14) ([PDF]({{< baseurl >}}/resources/ln1314alternatives))
+Alternatives to Law: Varieties of Dispute Processing (Lec #13, 14) ({{% resource_link 88d45860-8d8b-aad2-02d2-90f2f9706a9c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -286,7 +289,7 @@ Second Paper Due (Lec #13)
 Lec #15, 16
 {{< tdclose >}}
 {{< tdopen >}}
-Evolutionary Theories of Social Change: Maine and Durkheim (Lec #15, 16) ([PDF]({{< baseurl >}}/resources/lna9outline))
+Evolutionary Theories of Social Change: Maine and Durkheim (Lec #15, 16) ({{% resource_link f1c9907c-61f0-fd40-f15c-5d6f3b01af7c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -311,7 +314,7 @@ Berman, Paul. "An Observation and a Strange but True 'Tale': What might the His
 Lec #17, 18
 {{< tdclose >}}
 {{< tdopen >}}
-Law, Class Conflict and the Economy: Marx (Lec #17, 18) ([PDF]({{< baseurl >}}/resources/lna1623kmarxo))
+Law, Class Conflict and the Economy: Marx (Lec #17, 18) ({{% resource_link 3304560e-0ba7-0f74-f75b-c8822ace9012 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -338,9 +341,9 @@ Lec #19, 20, 21
 {{< tdopen >}}
 
 
-Law and the State: Weber (Lec #19, 20) ([PDF]({{< baseurl >}}/resources/lna2830weber))
+Law and the State: Weber (Lec #19, 20) ({{% resource_link 285f04a1-d464-9e41-317c-5f67574ea082 "PDF" %}})
 
-Law and Social Change (Continued) (Lec #21) ([PDF]({{< baseurl >}}/resources/lnm5socialc))
+Law and Social Change (Continued) (Lec #21) ({{% resource_link 7019ce1b-987b-5250-69ae-dabc213bddec "PDF" %}})
 
 
 {{< tdclose >}}
@@ -384,7 +387,7 @@ Third Paper Due (Lec #19)
 Lec #22, 23, 24, 25
 {{< tdclose >}}
 {{< tdopen >}}
-Law and Everyday Life, The Common Place of Law (Lec #23, 24, 25) ([PDF]({{< baseurl >}}/resources/lnm71214lawand))
+Law and Everyday Life, The Common Place of Law (Lec #23, 24, 25) ({{% resource_link b751182f-020e-b45f-9ba5-24395ef7e36a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 

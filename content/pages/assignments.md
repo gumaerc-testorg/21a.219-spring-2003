@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e3f64f09-b4d0-2b93-426f-20a3f2bdf6ab
 ---
@@ -18,7 +22,7 @@ Mechanical and Technological Details
     Lecture #5: 1 hour  
     Lecture #6: 1 hour  
       
-    Guide to Video Digitizing ([PDF]({{< baseurl >}}/resources/asguidetodigitizing))
+    Guide to Video Digitizing ({{% resource_link 6a24e3be-7c32-65f1-2ea8-aab39d38ff75 "PDF" %}})
 
 **NOTICE**: You must plan ahead to check out the films and you will have to plan ahead to use the digitizing equipment. It will be oversubscribed! Do not wait until the last moment to do this. I will not give extensions because of this limitation in resources. You must plan ahead.
 

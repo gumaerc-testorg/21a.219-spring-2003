@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: de03d9ca-1341-cabe-6657-75f28039e970
 ---
@@ -14,7 +17,7 @@ Film Screenings: 1 session / week, 1.5 hours / session
 Course Description
 ------------------
 
-Syllabus ([PDF]({{< baseurl >}}/resources/lawandsocietysylfeb03))
+Syllabus ({{% resource_link 287936d1-e59e-e466-d045-e81b7225aefd "PDF" %}})
 
 Law is a common and yet distinct aspect of everyday life in modern societies. This course examines the central features of law as a social institution and as a feature of popular culture. We will explore the nature of law as a set of social systems, central actors in the systems, legal reasoning, and the relationship of the legal form and reasoning to social change. The course emphasizes the relationship between the internal logic of legal devices and economic, political and social processes. Emphasis is placed upon developing a perspective which views law as a practical resource, a mechanism for handling the widest range of unspecified social issues, problems, and conflicts, and at the same time, as a set of shared representations and aspirations.  
    
@@ -57,7 +60,7 @@ All papers will be graded on the basis of mechanics (spelling and grammar) and g
 Additional Helpful Hints
 ------------------------
 
-Here is a set of instructions for different ways of reading, with suggestions about how to work through heavy reading assignments. ([PDF]({{< baseurl >}}/resources/guidetoreadingsocials))
+Here is a set of instructions for different ways of reading, with suggestions about how to work through heavy reading assignments. ({{% resource_link ccdce006-c2d2-2a95-f9a4-7dd2cb481a01 "PDF" %}})
 
 **Keep a copy for yourself of all work submitted for this course.**
 
