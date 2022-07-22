@@ -5,6 +5,7 @@ file: /courses/21a-219-law-and-society-spring-2003/c81679c53e9a9a199587168364911
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lnf26civiljusticesystemoutline.pdf
 uid: c81679c5-3e9a-9a19-9587-168364911fd9
 ---
 Civil Justice System
-
