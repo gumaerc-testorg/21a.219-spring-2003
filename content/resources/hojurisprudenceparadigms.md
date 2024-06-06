@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Jurisprudence: Evolving Paradigms'
 file: /courses/21a-219-law-and-society-spring-2003/5b59dfc46c29e9743d36568eef1d7652_hojurisprudenceparadigms.pdf
+file_size: 78531
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

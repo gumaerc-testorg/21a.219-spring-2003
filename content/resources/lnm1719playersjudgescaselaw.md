@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Players in the System: Judges'
 file: /courses/21a-219-law-and-society-spring-2003/7c2abb842cef9860ef0d50cd52ef13a2_lnm1719playersjudgescaselaw.pdf
+file_size: 76175
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
