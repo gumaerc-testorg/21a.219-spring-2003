@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Examples of Reading Summaries
-file: /courses/21a-219-law-and-society-spring-2003/22f5454d98baadddd644750a34716152_honotesex.pdf
+file: /ol-ocw-studio-app/courses/21a-219-law-and-society-spring-2003/22f5454d98baadddd644750a34716152_honotesex.pdf
 file_size: 201718
 file_type: application/pdf
 learning_resource_types: []
