@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Basic Concepts from Sociology and Anthropology - Tools to Think with
-file: /ol-ocw-studio-app/courses/21a-219-law-and-society-spring-2003/92764a2e26ac664a2b3247410cef02f9_hobasicconcepts.pdf
+file: /courses/21a-219-law-and-society-spring-2003/92764a2e26ac664a2b3247410cef02f9_hobasicconcepts.pdf
 file_size: 101800
 file_type: application/pdf
 learning_resource_types: []
