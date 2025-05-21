@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Law and Social Change: Relationship between Law and Society'
-file: /ol-ocw-studio-app/courses/21a-219-law-and-society-spring-2003/f1c9907c61f0fd40f15c5d6f3b01af7c_lna9outline.pdf
+file: /courses/21a-219-law-and-society-spring-2003/f1c9907c61f0fd40f15c5d6f3b01af7c_lna9outline.pdf
 file_size: 629026
 file_type: application/pdf
 learning_resource_types:
