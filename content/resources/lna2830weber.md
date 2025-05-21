@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Social Theories of Law (Continued)
-file: /ol-ocw-studio-app/courses/21a-219-law-and-society-spring-2003/285f04a1d4649e41317c5f67574ea082_lna2830weber.pdf
+file: /courses/21a-219-law-and-society-spring-2003/285f04a1d4649e41317c5f67574ea082_lna2830weber.pdf
 file_size: 93252
 file_type: application/pdf
 learning_resource_types:

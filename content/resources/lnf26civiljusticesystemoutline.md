@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Civil Justice System
-file: /ol-ocw-studio-app/courses/21a-219-law-and-society-spring-2003/c81679c53e9a9a199587168364911fd9_lnf26civiljusticesystemoutline.pdf
+file: /courses/21a-219-law-and-society-spring-2003/c81679c53e9a9a199587168364911fd9_lnf26civiljusticesystemoutline.pdf
 file_size: 62470
 file_type: application/pdf
 learning_resource_types:

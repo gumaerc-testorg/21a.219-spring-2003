@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Law and Social Change (Continued)
-file: /ol-ocw-studio-app/courses/21a-219-law-and-society-spring-2003/7019ce1b987b525069aedabc213bddec_lnm5socialc.pdf
+file: /courses/21a-219-law-and-society-spring-2003/7019ce1b987b525069aedabc213bddec_lnm5socialc.pdf
 file_size: 168941
 file_type: application/pdf
 learning_resource_types:

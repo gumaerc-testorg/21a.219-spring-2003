@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Theories of Law and Social Change
-file: /ol-ocw-studio-app/courses/21a-219-law-and-society-spring-2003/3304560e0ba70f74f75bc8822ace9012_lna1623kmarxo.pdf
+file: /courses/21a-219-law-and-society-spring-2003/3304560e0ba70f74f75bc8822ace9012_lna1623kmarxo.pdf
 file_size: 163638
 file_type: application/pdf
 learning_resource_types:
