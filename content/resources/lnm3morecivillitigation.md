@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Civil Justice System (Continued)
-file: /courses/21a-219-law-and-society-spring-2003/99fed470cdb1cc833c0620075b2fe71c_lnm3morecivillitigation.pdf
+file: /ol-ocw-studio-app/courses/21a-219-law-and-society-spring-2003/99fed470cdb1cc833c0620075b2fe71c_lnm3morecivillitigation.pdf
 file_size: 53728
 file_type: application/pdf
 learning_resource_types:

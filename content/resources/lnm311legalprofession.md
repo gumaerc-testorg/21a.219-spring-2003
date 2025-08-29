@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Legal Profession
-file: /courses/21a-219-law-and-society-spring-2003/a59588e50c407365f4f72c03814816c0_lnm311legalprofession.pdf
+file: /ol-ocw-studio-app/courses/21a-219-law-and-society-spring-2003/a59588e50c407365f4f72c03814816c0_lnm311legalprofession.pdf
 file_size: 79577
 file_type: application/pdf
 learning_resource_types:
